@@ -1,8 +1,13 @@
 {%- assign page_paths = site.header_pages | default: default_paths -%}
 <header>
     <div class="menu">
+          <table style="width:100%">
+      <tr>
+        <td>
+          <img src="./assets/monopohl-white.png" alt="monopohl wheel - white" height="40">
+        </td>
+        <td>
           <ul>
-          <li> <img src="./assets/monopohl-white.png" alt="monopohl wheel - white" height="40" align="left"> </li>
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
@@ -10,5 +15,8 @@
             {%- endif -%}
           {%- endfor -%}
         </ul>
+        </td>
+      </tr>
+    </table>
    </div>
 </header>
