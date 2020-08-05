@@ -5,8 +5,8 @@
 
 header_pages:
   - index.md
-  - about.md
-  - contact.md
+  - ueber.md
+  - notdienst.md
 
 style: dark
 
