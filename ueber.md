@@ -1,7 +1,7 @@
 ---
 layout: page
 title: /ueber
-permalink: /ueber/
+permalink: /ueber
 ---
 
 # Monopohl Elektroinstallation
