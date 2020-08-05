@@ -10,7 +10,7 @@ header_pages:
 
 style: dark
 
-footer: 'on se <a href="TODO">ig</a>'
+footer: 'on se <a href="https://soundcloud.com/monopohlisten">cloud</a>, on se <a href="TODO">ig</a>'
 
 # Build settings
 markdown: kramdown
