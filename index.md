@@ -4,6 +4,6 @@ layout: home
 permalink: /
 ---
 
-# Welcome
+# Monopohl Elektroinstallation
 
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
+Ihr sieben, ja?
