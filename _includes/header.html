@@ -7,11 +7,11 @@
           <img src="./assets/monopohl-white.png" alt="monopohl wheel - white" height="40">
         </td>
         <td style="vertical-align:center">
-          <ul class="menu">
+          <ul>
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
-            <li><a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+            <li class="menu"><a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
             {%- endif -%}
           {%- endfor -%}
         </ul>
