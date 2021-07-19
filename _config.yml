@@ -1,7 +1,7 @@
 title: 'Monopohl'
 description: "Monopohl Elektroinstallateure"
-baseurl: "/monopohl"
-url: "https://luisoala.github.io/"
+baseurl: ""
+url: "https://monopohlisten.de/"
 
 header_pages:
   - index.md
