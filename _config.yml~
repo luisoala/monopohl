@@ -14,4 +14,4 @@ footer: 'on se <a href="https://soundcloud.com/monopohlisten">cloud</a>, on se <
 
 # Build settings
 markdown: kramdown
-remote_theme: b2a3e8/jekyll-theme-console
+# remote_theme: b2a3e8/jekyll-theme-console
