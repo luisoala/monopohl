@@ -1,21 +1,21 @@
 title: 'Monopohl'
 description: "Monopohl Elektroinstallateure"
-baseurl: ""
+#baseurl: "/monopohlisten.de"
 url: "https://monopohlisten.de/"
 
 header_pages:
   - index.md
   - ueber.md
-  - notdienst.md
+  - heinrich-house-institut.md
 
 style: dark
 
-footer: 'on se <a href="https://soundcloud.com/monopohlisten">cloud</a>, on se <a href="TODO">ig</a>'
+footer: 'kontakt per imehl notdienst[ett]monopohlisten[punkt]de<br><a href="https://soundcloud.com/monopohlisten">soundcloud</a>'
 
 # Build settings
 markdown: kramdown
-# remote_theme: b2a3e8/jekyll-theme-console
-
+theme: jekyll-theme-console
+future: true
 
 plugins:
   - jekyll-seo-tag

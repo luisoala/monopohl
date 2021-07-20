@@ -1,9 +1,9 @@
 ---
-title: /notdienst
+title: /bereitschaft
 layout: page
-permalink: /notdienst
+permalink: /bereitschaft
 ---
 
-# Tag und Nacht Notdienst
+# Tag und Nacht Bereitschaft
 
-Kontakt ueber notdienst [guess 1] monopohlisten [guess 2] de
+Kontakt per Imehl ueber notdienst [guess 1] monopohlisten [guess 2] de
