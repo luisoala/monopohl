@@ -11,7 +11,7 @@ header_pages:
 
 style: dark
 
-footer: 'kontakt per imehl notdienst[ett]monopohlisten[punkt]de<br><a href="https://soundcloud.com/monopohlisten">soundcloud</a>'
+footer: '<a href="https://soundcloud.com/monopohlisten">soundcloud</a>'
 
 # Build settings
 markdown: kramdown
