@@ -6,7 +6,8 @@ permalink: /
 
 <img src="{{ "/assets/monopohl-square-bw.png" | relative_url }}" alt="dachdecken" width="100%">
 
-# Monopohl Elektroinstallation
+# Elektroinstallation Monopohl
 
-Ihr sieben, ja?
+Your favorite synthie duo serving music, art & good vibes.
 
+Est. 2020, based in Berlin.
