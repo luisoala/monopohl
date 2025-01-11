@@ -1,9 +1,9 @@
 ---
 title: /bereitschaft
 layout: page
-permalink: /bereitschaft
+permalink: /merch
 ---
 
-# Tag und Nacht Bereitschaft
+# Want to join the monopohl family? Check out the following link.
 
-Kontakt: soundcloud.com/monopohlisten
+monopohlisten.bandcamp.com
