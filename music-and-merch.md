@@ -1,5 +1,5 @@
 ---
-title: /music & merch
+title: /music
 layout: page
 permalink: /music
 ---
