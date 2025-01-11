@@ -5,8 +5,8 @@ date:   2020-08-09
 categories:
 ---
 
-# Bernsteinsee - Mit de Besics
-Ick bin raus!
+# Bernsteinsee - Open Air
+Playing all day long.
 <img src="{{ "/assets/monopohl-9-8-20-small.png" | relative_url }}" alt="monopohl-9-8-20" width="100%">
 {% highlight ruby %}
 zeit          "2020-08-09 12.00 hrs"
