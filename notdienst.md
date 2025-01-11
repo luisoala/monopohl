@@ -1,5 +1,5 @@
 ---
-title: /bereitschaft
+title: /merch
 layout: page
 permalink: /merch
 ---
