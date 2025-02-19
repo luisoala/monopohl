@@ -1,5 +1,5 @@
 ---
-title: /start
+title: Monopohlisten
 layout: home
 permalink: /
 ---
