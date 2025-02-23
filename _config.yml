@@ -6,8 +6,8 @@ url: "https://monopohlisten.de/"
 header_pages:
   - index.md
   - ueber.md
-  - music-and-merch.md
-  - notdienst.md
+  - music.md
+  - merch.md
 
 style: dark
 
@@ -22,3 +22,4 @@ future: true
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-redirect-from
