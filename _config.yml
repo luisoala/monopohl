@@ -13,7 +13,7 @@ style: dark
 
 # <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
-footer: '<a href="https://monopohlisten.bandcamp.com/">bandcamp</a> <a href="https://instagram.com/monopohlisten">ig</a> <a href="https://www.youtube.com/@elektroinstallation-monopohl">yt</a> <a href="https://soundcloud.com/monopohlisten">soundcloud</a>'
+footer: '<a href="https://monopohlisten.bandcamp.com/">bandcamp</a> <a href="https://instagram.com/monopohlisten">ig</a> <a href="https://www.youtube.com/@monopohlisten">yt</a> <a href="https://soundcloud.com/monopohlisten">soundcloud</a>'
 
 # Build settings
 markdown: kramdown
