@@ -1,7 +1,7 @@
 ---
 title: /merch
 layout: page
-permalink: /merch
+permalink: https://monopohlisten.bandcamp.com/
 ---
 
 # Want to join the monopohl family? Check out the following link.
