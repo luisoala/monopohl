@@ -1,7 +1,7 @@
 ---
 title: /music
 layout: page
-permalink: https://soundcloud.com/monopohlisten
+permalink: /music
 ---
 
 # For more sounds check out the following links:
