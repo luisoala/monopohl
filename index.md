@@ -8,6 +8,7 @@ permalink: /
 
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
+
 Elektroinstallation Monopohl
 
 Est. 2020, based in Berlin.
