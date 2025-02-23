@@ -9,6 +9,6 @@ permalink: /
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 <br>
-Elektroinstallation Monopohl
+elektroinstallation monopohl
 
-Est. 2020, based in Berlin.
+est. 2020, based in berlin
