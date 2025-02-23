@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
-<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://w.soundcloud.com https://api.soundcloud.com https://widget.soundcloud.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' https://i1.sndcdn.com https://w.soundcloud.com; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://api.soundcloud.com https://w.soundcloud.com; media-src 'self' https://api.soundcloud.com; object-src 'none'; child-src https://w.soundcloud.com; frame-src https://w.soundcloud.com; form-action 'none'; base-uri 'self'" />
+<meta http-equiv="Content-Security-Policy" content="default-src 'self' *.soundcloud.com *.sndcdn.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://*.soundcloud.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; img-src 'self' https://*.sndcdn.com https://*.soundcloud.com; font-src 'self' https://fonts.gstatic.com; connect-src 'self' https://*.soundcloud.com; media-src 'self' https://*.soundcloud.com; frame-src https://*.soundcloud.com; form-action 'none'; base-uri 'self'" />
 <meta http-equiv="X-XSS-Protection"  content="1;mode=block" always>
 <meta http-equiv="Referrer-Policy" content="no-referrer, strict-origin-when-cross-origin">
 
