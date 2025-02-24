@@ -12,4 +12,4 @@ together, we look for new music and artists, produce tracks, dj at parties, and 
 <br>
 if you are interested to work together feel free to reach out. you can find us at info [at] monopohlisten . de and the socials linked at the bottom of the page.
 <br>
-<img src="{{ "/assets/20250224_131641.jpg" | relative_url }}" alt="dachdecken" width="100%">
+<img src="{{ "/assets/20250224_162905.jpg" | relative_url }}" alt="dachdecken" width="100%">
