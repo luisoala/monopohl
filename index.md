@@ -11,4 +11,4 @@ permalink: /
 <br>
 elektroinstallation monopohl
 
-est. 2020, based in berlin
+based in berlin
